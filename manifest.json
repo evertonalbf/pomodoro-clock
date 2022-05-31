@@ -1,0 +1,7 @@
+{
+    "name": "pomodoro PWA example",
+    "short_name": "pomodoro PWA example",
+    "start_url": ".",
+    "background_color": "#6dcdb1",
+    "theme_color": "#0009578"
+}

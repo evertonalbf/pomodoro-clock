@@ -1,0 +1,15 @@
+body {
+
+    background-color: blue;
+}
+
+.btn-circle.btn-x1 {
+
+    width: 500px;
+    height: 500px;
+    padding: 13px 18px;
+    border-radius: 500px;
+    font-size: 50px;
+    text-align: center;
+
+}
